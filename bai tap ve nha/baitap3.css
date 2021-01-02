@@ -1,0 +1,18 @@
+body {
+    width: 550px;
+    border: 1px solid black;
+    margin: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 3px 3px 4px 4px black;
+}
+h2 {
+    text-align: center;
+    border:  1px solid black;
+    margin-left: 26px;
+    margin-right: 200px;
+    border-radius: 2px;
+    box-shadow: 3px 3px 4px 4px black;
+    padding-right: 159px;
+    width: 334px;
+}

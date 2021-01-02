@@ -1,0 +1,17 @@
+body {
+    border: 1px solid black;
+    box-shadow: 3px 3px 4px 4px black;
+    margin: 15px;
+    padding: 10px;
+}
+h1 {
+    height: 14px;
+}
+img {
+    float: left;
+    padding-right: 25px;
+}
+.style {
+    text-align: center;
+}
+   
